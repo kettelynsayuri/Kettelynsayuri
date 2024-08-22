@@ -1,16 +1,14 @@
-## Hi there 👋
+🖤 _olá, boas vindas ao meu perfil_ 🖤
 
-<!--
-**kettelynsayuri/Kettelynsayuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    meu nome é kattelyn sayuri
 
-Here are some ideas to get you started:
+  - estou estudando na ALURA;
+  - estou me desenvolvendo na linguagem JavaScripT
+  - utilizo esse espaço para minhas organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você pode entrar em contato comigo 📪 ⤵️
+
+   @kattelynsayuri12
+
+   
+  
